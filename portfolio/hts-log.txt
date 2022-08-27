@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 27 Aug 2022 16:50:42 at https://mankirat1116be21.wixsite.com/mankirat-s-portfolio +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mankirat1116be21.wixsite.com/mankirat-s-portfolio -O1 "C:\My Web Sites\portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/decodeURIComponent(e (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/sitemap.xml (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/feed.xml (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/ (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/version/ (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/da6c52cb.min.css (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/fc40122e.min.css (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/4da3e2b2.min.css (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/f52e40aa.min.css (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/99a6a99f.min.css (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/13b64bce.chunk.min.js (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/f7c2caf0.chunk.min.js (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.aca25011.chunk.min.js (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/rb_wixui.thunderbolt~bootstrap-responsive.f7c2caf0.chunk.min.js (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/rb_wixui.thunderbolt~bootstrap.30ba8a50.chunk.min.css (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+16:50:54	Error: 	"Not Found" (404) at link https://mankirat1116be21.wixsite.com/rb_wixui.thunderbolt~bootstrap.13b64bce.chunk.min.js (from https://mankirat1116be21.wixsite.com/mankirat-s-portfolio)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 seconds : 36 links scanned, 18 files written (1338845 bytes overall) [478589 bytes received at 39882 bytes/sec], 1334961 bytes transferred using HTTP compression in 29 files, ratio 29%, 5.1 requests per connection
+(17 errors, 0 warnings, 0 messages)
